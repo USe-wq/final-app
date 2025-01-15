@@ -1,0 +1,10 @@
+name: simple_note_app
+description: A simple note-taking or bookkeeping app with an add-item feature.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
